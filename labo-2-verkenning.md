@@ -5,14 +5,14 @@
 1. Hoe vraag je op de command-line documentatie op voor het *commando* `passwd`?
 
     ```
-    $ COMMANDO
+    man passwd 
     UITVOER
     ```
 
 2. Hoe vraag je documentatie op voor het *configuratiebestand* `/etc/passwd`?
 
     ```
-    $ COMMANDO
+    man /etc/passwd 
     UITVOER
     ```
 
